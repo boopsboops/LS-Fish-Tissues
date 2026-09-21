@@ -1,33 +1,60 @@
 # Fish Tissue Sampling in the Field
 
-A short SOP for fish tissue sampling in the field.
+#### A short SOP for fish tissue sampling in the field for DNA barcoding and mitogenomics.
 
-Rupert A. Collins // Natural History Museum, London // September 2026 
+Rupert A. Collins || Natural History Museum || September 2026 
+
+<figure>
+<img src="zander.jpg" alt="Zander" width="600">
+</figure>
 
 
-### Important notes
+### Important note
 
-This SOP is 
+This SOP is provided as best practice. In real situations with limited resources, it may not be possible to follow exactly. Where possible, I have shown where shortcuts can and can't be taken.
+
 
 ### Kit required
 
-A minimal sampling kit will include:
+An ideal sampling kit will include:
 
-* DNA tissue sample tubes with unique codes
+* DNA tissue sample tubes with unique codes, e.g. the 1.9 mL FluidX cryotubes shown in Fig. 1.
+* Absolute (or >95%) ethanol
+* Gel ink ballpoint pen (do not use biros near alcohol) 
+* Pencil (essential backup)
+* Labelling paper, e.g. Resistall paper or similar
+* Scalpel and disposable blades
+* Sharp dissection scissors
+* Fine forceps
+* Scale bar, e.g. ruler
+* Tray with light and dark background
+* Camera (a good phone camera is adequate, but DSLR better)
+* GPS (again phone may suffice)
+* 5% bleach solution (household bleach mixed at around 1 part bleach to 19 parts water) or mild dish soap solution 
+* Clean water (tap or bottled drinking)
+* Paper towels
+* Clove oil or MS-222 for fish euthanasia
+* PPE when working with chemicals, e.g. disposable gloves and eye protection
 
 <figure>
-  <figcaption><strong>Figure 1:</strong> Kit required.</figcaption>
-<img src="kit.jpg" alt="Description" width="700">
+<figcaption><strong>Figure 1:</strong> A 1.9 mL FluidX cryotube with unique barcode.</figcaption>
+<img src="tube.jpg" alt="Tube" width="400">
+</figure>
+
+<figure>
+<figcaption><strong>Figure 2:</strong> Kit required for taking tissue samples.</figcaption>
+<img src="kit.jpg" alt="Kit" width="600">
 </figure>
 
 
 ### Preparing the fish
 
-For best quality DNA samples, the fish should be tissue sampled immediately, or as close as possible, after being collected and euthanised. This is the biggest factor in obtaining good results, as decomposition will quickly degrade DNA. Before sampling, the fish should first be washed in tap/sea/river water to remove debris, excess slime, and any contaminating DNA from other species it may have been in contact with in the net. Fish that are intended to be returned alive can be fin-clipped, taking a small fin sample to avoid permanent damage.
+For best quality DNA samples, the fish should be tissue sampled immediately, or as soon as possible, after being collected and euthanised. This is the biggest factor in obtaining good results, as decomposition will quickly degrade DNA. Before sampling, the fish should first be cleaned in tap/bottled/sea/river water to remove debris, excess slime, and any contaminating DNA from other species it may have been in contact with in the net. Fish that are intended to be returned alive can be fin-clipped, taking as small a fin sample as possible to avoid permanent damage.
+
 
 ### Photography
 
-It is very important to take good photographs for identification, and especially so if the voucher specimen is not to be retained. It is important to include a scale bar such as a ruler, as well as a written note of the sample details, including the "what, where, who, when" information, and most importantly the DNA sample tube unique code that is written on the side of the tube. Due to lighting, fish colouration and camera settings, it is advisable to have on hand both a light (Fig. 2) and a dark (Fig. 3) coloured plain background. Very small fishes under ~5 cm, such as gobies, are better photographed under water in a small tray, tub or photography aquarium. 
+It is very important to take good photographs for identification, and especially so if the voucher specimen is not to be retained. It is important to include a scale bar such as a ruler, as well as the written note of the sampling details, including the "what, where, who, when" information, and most importantly, the DNA sample tube unique code (written on the side of the tube). Due to lighting, fish colouration and camera settings, it is advisable to have on hand both a light coloured (Fig. 3) and a dark coloured (Fig. 4) plain background. Record the following data:
 
 * Species scientific name
 * Collector(s)
@@ -36,14 +63,76 @@ It is very important to take good photographs for identification, and especially
 * Location, including GPS coordinates if possible
 * DNA sample tube unique code
 
-Fish should always be photographed on the left-hand side, facing left. The fish's left-hand side is relative to its normal orientation with its head pointing away from you.   
+Fish should always be photographed on their LEFT-hand side, facing left (Fig. 3-4). The fish's left-hand side is relative to its normal horizontal orientation with its head pointing away from you. If the left side is damaged or atypical, photograph the right side. Take closeup shots of key identification features (Fig. 5-7). 
 
 <figure>
-  <figcaption><strong>Figure 2:</strong> Image of perch on dark background.</figcaption>
-<img src="dark.jpg" alt="Description" width="700">
+ <figcaption><strong>Figure 3:</strong> Image of perch on dark background.</figcaption>
+<img src="dark.jpg" alt="Dark" width="600">
 </figure>
 
 <figure>
-<img src="light.jpg" alt="Description" width="700">
-<figcaption><strong>Figure 3:</strong> Image of perch on light background.</figcaption>
+<figcaption><strong>Figure 4:</strong> Image of perch on light background.</figcaption>
+<img src="light.jpg" alt="Light" width="600">
 </figure>
+
+<figure>
+<figcaption><strong>Figure 5:</strong> Closeup of dorsal fin colouration.</figcaption>
+<img src="dorsal.jpg" alt="Dorsal" width="600">
+</figure>
+
+<figure>
+<figcaption><strong>Figure 6:</strong> Closeup of operculum.</figcaption>
+<img src="head.jpg" alt="Head" width="600">
+</figure>
+
+<figure>
+<figcaption><strong>Figure 7:</strong> Closeup of head ventrally.</figcaption>
+<img src="ventral.jpg" alt="Ventral" width="400">
+</figure>
+
+Very small fishes under ~5 cm, such as gobies, are better photographed after euthanasia under shallow water in a small tilted tray, Tupperware, margarine tub or dedicated photography aquarium (Fig. 8).
+
+<figure>
+<figcaption><strong>Figure 8:</strong> Small catfish around 3 cm photographed in tilted shallow tray under water.</figcaption>
+<img src="catfish.jpg" alt="Catfish" width="600">
+</figure>
+
+
+### Tissue sampling
+
+Any dissection of the fish should take place after photography, on the RIGHT-hand side of the fish (i.e. the other side to that photographed). Good targets for tissue sampling are symmetrical structures such as the pectoral fins, pelvic fins and gill arches. To sample the right-side pectoral fin, hold the fin with forceps and cut at the base with the scalpel or scissors (Fig. 9), removing a small amount of the muscle at the base, which will be rich in DNA (Fig. 10). It is VERY IMPORTANT to not take too big a sample. If too much tissue is crammed into the tube, the ethanol will not penetrate, the concentration will drop and DNA will degrade. If in doubt, take less than you think. If a specimen is particularly rare or valuable, better to take multiple smaller samples in multiple tubes than one big one. A small plug of flesh can be cut from the lateral muscle on the right-hand side, but avoid the breaking the gut (contamination). Very small fishes can be placed whole into the tube, but it is important to change the ethanol with fresh the next day. 
+
+<figure>
+<figcaption><strong>Figure 9:</strong> Sampling the pectoral fin. A larger fish with a thicker fin would require just a sliver rather than the whole fin. </figcaption>
+<img src="pectoral.jpg" alt="Pectoral" width="600">
+</figure>
+
+<figure>
+<figcaption><strong>Figure 10:</strong> Size of sampled pectoral fin. This will yield enough tissue for several DNA extractions.</figcaption>
+<img src="fin.jpg" alt="Fin" width="400">
+</figure>
+
+<figure>
+<figcaption><strong>Figure 11:</strong> Sampling the gill arches. This will yield enough DNA for several extractions.</figcaption>
+<img src="gill.jpg" alt="Gill" width="400">
+</figure>
+
+
+### Equipment decontamination
+
+It is best practice to clean and decontaminate the dissection equipment between samples, to prevent exogenous DNA contamination from other individuals/species. Ideally this is done with rinsing in a weak (5%) bleach or soap solution, and wiping thoroughly with paper towel, and then rinsing thoroughly with clean water (e.g. tap or bottled drinking water) and/or alcohol. If this is not possible, clean and rinse as best you can between samples with paper towel and water.
+
+
+### Sample storage and shipping
+
+Best practice is to allow the ethanol and sample to equilibrate for 48 h at room temperature before putting the tube in a -20C freezer or refrigerator. If freezing or refrigeration is not available, the best place is somewhere cool and dark. Follow the IATA A180 guidelines for safe shipping of preserved biological specimens in alcohol (Fig. 12). Alternatively, the ethanol can be carefully poured off before shipping and the tube resealed to avoid issues with dangerous goods. The tissue samples will be fine if they have been fixed for at least a week in the ethanol beforehand.
+
+<figure>
+<figcaption><strong>Figure 12:</strong> IATA A180 guidelines for shipping preserved biological specimens.</figcaption>
+<img src="IATA-A180.png" alt="IATA" width="400">
+</figure>
+
+
+### Voucher specimens
+
+Ideally a voucher specimen will accompany the tissue sample. These are best fixed by ~7 days in a 5-10% formalin solution. If formalin is not available, the fish can be wrapped in clingfilm or ziplock bag and carefully frozen alongside its collection information label, and can then be shipped frozen on ice.
