@@ -124,9 +124,9 @@ Any dissection of the fish should take place after photography, on the RIGHT-han
 It is best practice to clean and decontaminate the dissection equipment between samples, to prevent exogenous DNA contamination from other individuals/species. Ideally this is done with rinsing in a weak (5%) bleach or soap solution, and wiping thoroughly with paper towel, and then rinsing thoroughly with clean water (e.g. tap or bottled drinking water) and/or alcohol. If this is not possible, clean and rinse as best you can between samples with paper towel and water.
 
 
-### Sample storage and shipping
+### Sample storage and shipping of alcohol
 
-Best practice is to allow the ethanol and sample to equilibrate for 48 h at room temperature before putting the tube in a -20C freezer or refrigerator. If freezing or refrigeration is not available, the best place is somewhere cool and dark. Follow the IATA A180 guidelines for safe shipping of preserved biological specimens in alcohol (Fig. 12). Alternatively, the ethanol can be carefully poured off before shipping and the tube resealed to avoid issues with dangerous goods. The tissue samples will be fine if they have been fixed for at least a week in the ethanol beforehand.
+Best practice is to allow the ethanol and sample to equilibrate for 48 h at room temperature before putting the tube in a -20C freezer or refrigerator. If freezing or refrigeration is not available, the best place is somewhere cool and dark. Follow the IATA A180 guidelines for safe shipping of preserved biological specimens in alcohol (Fig. 12). Alternatively, the ethanol can be carefully poured off before shipping and the tube resealed to avoid issues with dangerous goods. The tissue samples will be fine if they have been fixed for at least a week in the ethanol beforehand. See below for further shipping details.
 
 <figure>
 <figcaption><strong>Figure 12:</strong> IATA A180 guidelines for shipping preserved biological specimens.</figcaption>
@@ -134,12 +134,12 @@ Best practice is to allow the ethanol and sample to equilibrate for 48 h at room
 </figure>
 
 
-### Voucher specimens
+### Voucher specimens and shipping
 
-Ideally a voucher specimen will accompany the tissue sample. These are best fixed for ~7 days in a 5-10% formalin solution (after tissue sampling as formalin destroys DNA). If formalin is not available, the fish can be placed in a plastic ziplock or Whirl-Pak bag and carefully frozen at -20C together with its collection information label. Remember to include the tissue tube code(s) (Fig. 1) as these numbers link the voucher specimen with the tissue samples. Specimens can then be shipped frozen on ice. Both the vouchers and tissue sample tubes should be sent to the address below using a next day delivery via a courier service such as DHL. Please ensure to contact us via email (provided separately) before any tissues or specimens are sent, so that we can make sure someone is available to collect them immediately. Pack specimens in a well taped-up polystyrene box, and mark the package clearly as "keep frozen at -20C". 
+Ideally a voucher specimen will accompany the tissue sample. These are best fixed for ~7 days in a 5-10% formalin solution (after tissue sampling as formalin destroys DNA). If formalin is not available, the fish can be placed in a plastic ziplock or Whirl-Pak bag and carefully frozen at -20C together with its collection information label. Remember to include the tissue tube code(s) (Fig. 1) as these numbers link the voucher specimen with the tissue samples. Specimens can then be shipped frozen on ice. Both the vouchers and tissue sample tubes should be sent to the address below using next day delivery via a courier service such as DHL. Please ensure to contact us via email (provided separately) before any tissues or specimens are sent, so that we can make sure someone is available to collect them immediately. Pack frozen specimens in a well taped-up polystyrene box, and mark the package clearly as "keep frozen at -20C". 
 
-Rupert Collins
-Science Department
-Natural History Museum
-Cromwell Road
-London SW7 5BD
+Rupert Collins  
+Science Department  
+Natural History Museum  
+Cromwell Road  
+London SW7 5BD  
